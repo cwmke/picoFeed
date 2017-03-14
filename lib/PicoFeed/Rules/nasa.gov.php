@@ -1,4 +1,6 @@
-rray(
+<?php
+
+return array(
     'grabber' => array(
         '%.*%' => array(
             'test_url' => 'https://www.nasa.gov/image-feature/jpl/pia20514/coy-dione',
