@@ -11,6 +11,8 @@ return array(
                 '//h1',
                 '//aside',
                 '//div[@class="blog-post__asideable-wrapper"]',
+                '//div[@class="share_inline_header"]',
+                '//div[@id="column-right"]',
                 '//div[contains(@class,"blog-post__siblings-list-aside")]',
                 '//div[@class="video-player__wrapper"]',
                 '//div[@class="blog-post__bottom-panel"]',
